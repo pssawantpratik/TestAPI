@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\pratik.pradip.sawant\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\pratik.pradip.sawant\\.nuget\\packages"
+    ]
+  }
+}
